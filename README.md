@@ -1,6 +1,8 @@
 # Attention tasks
 
-Original: https://github.com/greentfrapp/attention-primer
+Original tasks: https://github.com/greentfrapp/attention-primer
+
+DL framework: `pytorch`
 
 ## Task 1
 
